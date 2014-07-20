@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# Similar to cf_update_dns but in python
+# CloudFlare DNS Manager
 
 import json
 import requests
